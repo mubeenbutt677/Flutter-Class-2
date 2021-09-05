@@ -1,0 +1,7 @@
+void main ()
+{
+  var i=11;
+var b=++i;
+
+print (b);
+}
